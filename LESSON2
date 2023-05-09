@@ -1,0 +1,16 @@
+blocks.place(GRASS, pos(0, 0, 0))
+blocks.place(BRICKS, pos(0, 0, 0))
+
+blocks.place(REDSTONE_LAMP, pos(0, 6, 0))
+blocks.place(REDSTONE_LAMP, pos(0, 7, 0))
+blocks.place(REDSTONE_LAMP, pos(0, 4, 0))
+
+blocks.place(BRICKS, pos(0, 0, 1))
+blocks.place(BRICKS, pos(0, 1, 2))
+blocks.place(BRICKS, pos(0, 2, 3))
+
+blocks.place(PLANKS_OAK, pos(-1, -1, 0))
+blocks.place(PLANKS_OAK, pos(-2, -1, 0))
+blocks.place(PLANKS_OAK, pos(-1, -1, 0))
+blocks.place(PLANKS_OAK, pos(-1, -1, 0))
+blocks.place(PLANKS_OAK, pos(-1, -1, 0))
